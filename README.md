@@ -7,6 +7,8 @@
 
 - [Papers](#papers)
 - [Tools](#tools)
+- [GPT-4 news and announcements](#gpt-4-news-and-announcements)
+- [ChatGPT news and announcements](#chatgpt-news-and-announcements)
 
 
 ## Papers
@@ -21,8 +23,17 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Tools
 
-- Coming soon:)
+- GPT-4 tools coming soon:)
 
+## GPT-4 news and announcements
+
+- [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html) (*heise.de*).
+
+## ChatGPT news and announcements
+
+- [Introducing ChatGPT](https://openai.com/blog/chatgpt)
+- [Introducing ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
+- [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 
 ## Contributing
 
