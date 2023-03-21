@@ -7,9 +7,9 @@
 
 - [Papers](#papers)
 - [Tools](#tools)
-    - [Open-source projects](open-source-projects)
-    - [Community demos](community-demos)
-    - [Product integrations](product-integrations)
+    - [Open-source projects](#open-source-projects)
+    - [Community demos](#community-demos)
+    - [Product integrations](#product-integrations)
 - [GPT-4 news and announcements](#gpt-4-news-and-announcements)
 - [ChatGPT news and announcements](#chatgpt-news-and-announcements)
 
