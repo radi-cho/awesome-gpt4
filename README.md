@@ -34,8 +34,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API
 - [promptlib](https://github.com/jmpaz/promptlib/) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend
 - [Conference scheduling](https://github.com/stephanj/Scheduling-using-GPT4) using GPT-4
-- [Pair](https://https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4. Suitable for more complex 
-tasks that require Q&A, feedback to guide it in a particular direction, iteration on code execution errors, etc.
+- [Pair](https://https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.
 
 
 ### Community demos
