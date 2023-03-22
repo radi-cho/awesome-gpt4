@@ -35,6 +35,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [promptlib](https://github.com/jmpaz/promptlib/) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend
 - [Conference scheduling](https://github.com/stephanj/Scheduling-using-GPT4) using GPT-4
 - [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode
+- [Pair](https://https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4
 
 ### Community demos
 
