@@ -64,6 +64,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Elicit](https://elicit.org/gpt4-waitlist) - Find insights across 200 million research papers with GPT-4
 - [Fin](https://twitter.com/destraynor/status/1635705919441969153) by [Intercom](https://www.intercom.com/) - The ChatGPT for Customer Service
 - [Magician](https://twitter.com/jsngr/status/1635696478013337600) by [diagram](https://diagram.com/) - AI design tools with access to GPT-4
+- GitHub [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - AI-powered developer experience
+
 
 ## GPT-4 news and announcements
 
