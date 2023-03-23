@@ -23,6 +23,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Language Models are Few-Shot Learners](https://paperswithcode.com/paper/language-models-are-few-shot-learners) (GPT-3)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 
 
 ## Tools
