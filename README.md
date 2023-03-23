@@ -44,6 +44,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 - [ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT (and GPT-4).
 - [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
+- [Smarty GPT](https://github.com/citiususc/Smarty-GPT) - wrapper of prompts and contexts that supports several models, including GPT4.
 
 
 ### Community demos
