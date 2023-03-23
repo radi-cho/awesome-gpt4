@@ -24,6 +24,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
 - [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
+- [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf)
+- [DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4](https://arxiv.org/pdf/2303.11032.pdf)
 
 
 ## Tools
@@ -50,7 +52,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [GPT-4 for writing one click lawsuits to sue robocallers](https://twitter.com/jbrowder1/status/1635720431091974157)
 - [GPT-4 for matchmaking](https://twitter.com/jakozloski/status/1635778263787110401)
 - [GPT-4 for debugging](https://twitter.com/mayowaoshin/status/1635757442859671553)
-- [Create a basic 3D game prototype like Doom using GPT-4.](https://twitter.com/javilopen/status/1636085116400451584)
+- [Create a basic 3D game prototype like Doom using GPT-4](https://twitter.com/javilopen/status/1636085116400451584)
 
 
 ### Product integrations
