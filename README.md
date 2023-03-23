@@ -11,7 +11,7 @@
     - [Community demos](#community-demos)
     - [Product integrations](#product-integrations)
 - [GPT-4 news and announcements](#gpt-4-news-and-announcements)
-- [ChatGPT news and announcements](#chatgpt-news-and-announcements)
+- [Prompts](#prompts)
 
 
 ## Papers
@@ -47,6 +47,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 - [The first book written with GPT-4](https://www.impromptubook.com/wp-content/uploads/2023/03/impromptu-rh.pdf) (Announcement [thread](https://twitter.com/reidhoffman/status/1636006090927390720))
 - [Turn napkin sketch into a web app](https://youtu.be/outcGtbnMuQ?t=972) (By OpenAI)
+- [GPT-4 trying to escape by asking for its own documentation](https://twitter.com/michalkosinski/status/1636683810631974912)
 - [Make a film, from script to screen](https://twitter.com/nickfloats/status/1635749064091267098)
 - [GPT-4 for writing microservices that inference the GPT-3 API](https://twitter.com/joeprkns/status/1635969883375640577)
 - [GPT-4 for making Google Chrome extensions](https://twitter.com/jakebrowatzke/status/1635882037319008258)
@@ -54,6 +55,10 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [GPT-4 for matchmaking](https://twitter.com/jakozloski/status/1635778263787110401)
 - [GPT-4 for debugging](https://twitter.com/mayowaoshin/status/1635757442859671553)
 - [Create a basic 3D game prototype like Doom using GPT-4](https://twitter.com/javilopen/status/1636085116400451584)
+- [Build advanced web apps entirely by voice and GPT-4](https://www.youtube.com/watch?v=lZj63vjueeU)
+- [Using GPT-4 to create a Three.js music visualizer](https://twitter.com/maxemitchell/status/1637333172273725443)
+- [Dynamic animations in SwiftUI with GPT-4](https://twitter.com/MengTo/status/1636507977795481601)
+- [GPT-4 Data Pipelines: Transform JSON to SQL Schema](https://medium.com/@nschairer/gpt-4-data-pipelines-transform-json-to-sql-schema-instantly-dfd62f6d1024)
 
 
 ### Product integrations
@@ -82,11 +87,9 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Confirmed: the new Bing runs on OpenAI’s GPT-4](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4)
 
 
-## ChatGPT news and announcements
+## Prompts
 
-- [Introducing ChatGPT](https://openai.com/blog/chatgpt)
-- [Introducing ChatGPT Plus](https://openai.com/blog/chatgpt-plus)
-- [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+
 
 
 ## Contributing
