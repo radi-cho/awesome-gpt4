@@ -22,7 +22,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask) (GPT-2)
 - [Language Models are Few-Shot Learners](https://paperswithcode.com/paper/language-models-are-few-shot-learners) (GPT-3)
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
-- [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+- **[GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)**
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
 - [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/pdf/2303.10130.pdf)
 - [DeID-GPT: Zero-shot Medical Text De-Identification by GPT-4](https://arxiv.org/pdf/2303.11032.pdf)
@@ -32,16 +32,16 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ### Open-source projects
 
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
-- [GPT-4 Chat UI](https://replit.com/@zahid/GPT-4-Chat-UI) - Replit GPT-4 frontend template for Next.js
-- [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API
-- [promptlib](https://github.com/jmpaz/promptlib/) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend
-- [Conference scheduling](https://github.com/stephanj/Scheduling-using-GPT4) using GPT-4
-- [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode
-- [Pair](https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4
-- [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal
-- [Wolverine](https://github.com/biobootloader/wolverine) - Run Python scripts and when they crash, GPT-4 edits them and explains what went wrong
-- [datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
+- [GPT-4 Chat UI](https://replit.com/@zahid/GPT-4-Chat-UI) - Replit GPT-4 frontend template for Next.js.
+- [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.
+- [promptlib](https://github.com/jmpaz/promptlib/) - A collection of prompts for use with GPT-4 via ChatGPT, OpenAI API w/ Gradio frontend.
+- [Conference scheduling](https://github.com/stephanj/Scheduling-using-GPT4) using GPT-4.
+- [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode.
+- [Pair](https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.
+- [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
+- [Wolverine](https://github.com/biobootloader/wolverine) - Run Python scripts and when they crash, GPT-4 edits them and explains what went wrong.
+- [datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 
 
 ### Community demos
@@ -64,20 +64,20 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ### Product integrations
 
-- [Khan Academy](https://openai.com/customer-stories/khan-academy) integrates GPT-4 as every student’s customized tutor
-    - [GPT-4 Khan Academy In Depth Demo](https://www.youtube.com/watch?v=rnIgnS8Susg)
-- [Be My Eyes](https://openai.com/customer-stories/be-my-eyes) uses GPT-4 to transform visual accessibility
-- [Stripe](https://openai.com/customer-stories/stripe) leverages GPT-4 to streamline user experience and combat fraud
-- [Duolingo](https://openai.com/customer-stories/duolingo) uses GPT-4 to deepen its conversations
-- [Morgan Stanley](https://openai.com/customer-stories/morgan-stanley) wealth management deploys GPT-4 to organize its vast knowledge base
-- How [Iceland](https://openai.com/customer-stories/government-of-iceland) is using GPT-4 to preserve its language
-- [Milo](https://twitter.com/APatelThompson/status/1635749787604770816) co-parent for parents
-- [Tome](https://twitter.com/hliriani/status/1635770323454038018) - Synthesize a document you wrote into a presentation with
-- [Elicit](https://elicit.org/gpt4-waitlist) - Find insights across 200 million research papers with GPT-4
-- [Fin](https://twitter.com/destraynor/status/1635705919441969153) by [Intercom](https://www.intercom.com/) - The ChatGPT for Customer Service
-- [Magician](https://twitter.com/jsngr/status/1635696478013337600) by [diagram](https://diagram.com/) - AI design tools with access to GPT-4
-- GitHub [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - AI-powered developer experience
-- [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator
+- [Khan Academy](https://openai.com/customer-stories/khan-academy) integrates GPT-4 as every student’s customized tutor.
+    - [GPT-4 Khan Academy In Depth Demo.](https://www.youtube.com/watch?v=rnIgnS8Susg)
+- [Be My Eyes](https://openai.com/customer-stories/be-my-eyes) uses GPT-4 to transform visual accessibility.
+- [Stripe](https://openai.com/customer-stories/stripe) leverages GPT-4 to streamline user experience and combat fraud.
+- [Duolingo](https://openai.com/customer-stories/duolingo) uses GPT-4 to deepen its conversations.
+- [Morgan Stanley](https://openai.com/customer-stories/morgan-stanley) wealth management deploys GPT-4 to organize its vast knowledge base.
+- How [Iceland](https://openai.com/customer-stories/government-of-iceland) is using GPT-4 to preserve its language.
+- [Milo](https://twitter.com/APatelThompson/status/1635749787604770816) co-parent for parents.
+- [Tome](https://twitter.com/hliriani/status/1635770323454038018) - Synthesize a document you wrote into a presentation with GPT-4.
+- [Elicit](https://elicit.org/gpt4-waitlist) - Find insights across 200 million research papers with GPT-4.
+- [Fin](https://twitter.com/destraynor/status/1635705919441969153) by [Intercom](https://www.intercom.com/) - The ChatGPT for Customer Service.
+- [Magician](https://twitter.com/jsngr/status/1635696478013337600) by [diagram](https://diagram.com/) - AI design tools with access to GPT-4.
+- GitHub [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - AI-powered developer experience.
+- [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator.
 
 
 ## GPT-4 news and announcements
