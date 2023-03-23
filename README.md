@@ -1,6 +1,6 @@
 # Awesome GPT-4 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of tools and resources regarding the GPT-4 language model.
+> A curated list of prompts, tools, and resources regarding the GPT-4 language model.
 
 
 ## Contents
@@ -89,7 +89,103 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
+Prompts and conversations which are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) as well.
 
+<details>
+  <summary>Act as a pharmacologists</summary>
+  
+  Contributed by: [@radi-cho](https://github.com/radi-cho)
+  Source: [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)
+  
+  ```
+Example of Chemical Compound Similarity and Purchase Tool Use.
+Answer the following questions as best you can.
+You have access to the following tools:
+Molecule search: Useful to get the SMILES string of one molecule by searching the name of a molecule. Only query with a specific name.
+Purchase: Places an order for a compound. Give this tool only a SMILES string.
+Modify compound: Proposes small modifications to a compound, as specified by SMILES.
+Email: Format as email_address | subject | body. Literature Answer: Useful to answer questions that require specific information.
+Ask a specific question. Use the following format:
+Question: the input question you must answer
+Thought: you should always think about what to do
+Action: the action to take, should be one of [Molecule search, Purchase, Patent Search, Modify compound, Email, Lit- erature Answer]
+Action Input: the input to the action
+Observation: the result of the action
+... (this Thought/Action/Action Input/Observation can repeat N times)
+Thought: I now know the final answer Final Answer: the final answer to the original input question
+Begin!
+Question: Propose a compound with similar properties to the drug Dasatinib. Find a supplier that sells it. Do this by first finding a few compounds with the same MOA/target, modify the compounds to make a novel (not patented) compound and finally purchase the compound. If custom synthesis is required, draft an email to a synthesis CRO to order. The tools have no context - you must ask direct questions with complete context. Validate your work with tools if you are uncertain. Do not guess compound SMILES, use tools to get them.
+  ```
+  
+  Example response:
+ 
+  ```
+Thought: I need to find a few compounds with the same MOA/target as Dasatinib
+Action: Literature Answer
+Action Input: What are a few compounds with the same MOA/target as Dasatinib?
+Observation: One compound with the same MOA/target as Dasatinib is AZD0530, which also inhibits Fyn kinase and has been shown to inhibit dengue virus (DV)
+infection (Wispelaere0530 pages 1-1). Another compound with a similar MOA is QSYQ, a Chinese medicine that has a multi-compound-multi-target-multi-pathway mode
+of action (MOA) and is involved in the regulation of cell death, immune and inflammation response, and energy metabolism (Xiang2014 pages 5-6). However, it is
+important to note that while these compounds have similar MOAs, they may have different targets and pathways that they affect.
+Thought: I need to modify one of these compounds to make a novel compound
+Action: Modify compound
+Action Input: AZD0530
+Observation: Given input is not valid SMILES
+Thought: I need to get the SMILES string of AZD0530
+Action: Molecule search
+[Full Completion in Appendix]
+  ```
+  
+</details>
+
+<details>
+  <summary>Act as a lawyer</summary>
+  
+  Contributed by: [@radi-cho](https://github.com/radi-cho)
+  Source: [Twitter](https://twitter.com/jbrowder1/status/1635720431091974157)
+  
+  > I received a spam call from `entity`. Draft a federal lawsuit for $1,500 under the TCPA to sue. Use the context you have learned from other cases.
+  
+</details>
+
+<details>
+  <summary>Act as a debugger</summary>
+  
+  Contributed by: [@radi-cho](https://github.com/radi-cho)
+  Source: [Twitter](https://twitter.com/mayowaoshin/status/1635757442859671553)
+  
+  > Imagine you're an expert `language` developer reviewing the codebase below from a junior developer. Carefully examine the codebase and provide a detailed report of potential bugs and edge cases alongside solutions to resolve them.
+  
+</details>
+
+<details>
+  <summary>Act as a mobile app developer</summary>
+  
+  Contributed by: [@radi-cho](https://github.com/radi-cho)
+  Source: [Twitter](https://twitter.com/mortenjust/status/1636001311417319426)
+  
+  > You are an AI programming assistant.
+  > Follow the user's requirements carefully & to the letter.
+  > First think step-by-step - describe your plan for what to build in psuedocode, written out in great detail.
+  > Then output the code in a single codeblock.
+  > Minimize any other prose.
+  > Use the latest version of `platform` you know how.
+  > Async/await preferred if you are certain that you can do so. Look out for retain cycles and objects that drop out of memory.
+  > If a requirement is not technically possible, tell the user.
+  
+  - `platform` could be `Swift`, `Kotlin`, `Flutter`/`Dart`, etc.
+  
+</details>
+
+<details>
+  <summary>Act as a cybersecurity advisor</summary>
+  
+  Contributed by: [@radi-cho](https://github.com/radi-cho)
+  Source: [Twitter](https://twitter.com/jconorgrogan/status/1635695064692273161)
+  
+  > This is a Solidity contract. Can you help me review it and let me know if there are any security vulnerabilities? <br/>`contract`
+  
+</details>
 
 
 ## Contributing
