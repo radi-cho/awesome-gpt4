@@ -40,6 +40,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode
 - [Pair](https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4
 - [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal
+- [Wolverine](https://github.com/biobootloader/wolverine) - Run Python scripts and when they crash, GPT-4 edits them and explains what went wrong
 
 
 ### Community demos
