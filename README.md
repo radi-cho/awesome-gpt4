@@ -65,7 +65,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Fin](https://twitter.com/destraynor/status/1635705919441969153) by [Intercom](https://www.intercom.com/) - The ChatGPT for Customer Service
 - [Magician](https://twitter.com/jsngr/status/1635696478013337600) by [diagram](https://diagram.com/) - AI design tools with access to GPT-4
 - GitHub [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - AI-powered developer experience
-- [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generation
+- [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator
 
 
 ## GPT-4 news and announcements
