@@ -36,6 +36,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Conference scheduling](https://github.com/stephanj/Scheduling-using-GPT4) using GPT-4
 - [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode
 - [Pair](https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4
+- [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal
+
 
 ### Community demos
 
@@ -71,7 +73,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 ## GPT-4 news and announcements
 
 - [GPT-4 is coming next week – and it will be multimodal, says Microsoft Germany](https://www.heise.de/news/GPT-4-is-coming-next-week-and-it-will-be-multimodal-says-Microsoft-Germany-7540972.html) (*heise.de*)
-- [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses.](https://openai.com/product/gpt-4)
+- [GPT-4 is OpenAI’s most advanced system, producing safer and more useful responses](https://openai.com/product/gpt-4)
 - [GPT-4 - OpenAI Research](https://openai.com/research/gpt-4)
 - [Confirmed: the new Bing runs on OpenAI’s GPT-4](https://blogs.bing.com/search/march_2023/Confirmed-the-new-Bing-runs-on-OpenAI%E2%80%99s-GPT-4)
 
