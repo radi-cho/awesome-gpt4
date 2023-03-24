@@ -32,7 +32,6 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ### Open-source projects
 
-- [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Customizable and highly conversational GPT-4 chatbot that can remember things discussed, use ElevenLabs or Google TTS, and be interacted with via a voice chat or through a CLI.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
 - [GPT-4 Chat UI](https://replit.com/@zahid/GPT-4-Chat-UI) - Replit GPT-4 frontend template for Next.js.
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.
@@ -46,6 +45,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT (and GPT-4).
 - [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
 - [Smarty GPT](https://github.com/citiususc/Smarty-GPT) - wrapper of prompts and contexts that supports several models, including GPT4.
+- [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
 
 
 ### Community demos
