@@ -45,6 +45,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT (and GPT-4).
 - [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
 - [Smarty GPT](https://github.com/citiususc/Smarty-GPT) - wrapper of prompts and contexts that supports several models, including GPT4.
+- [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
 
 
 ### Community demos
