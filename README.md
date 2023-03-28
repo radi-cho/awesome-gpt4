@@ -192,6 +192,17 @@ Action: Molecule search
   
 </details>
 
+<details>
+  <summary>Act as a theoretical explainer with LaTeX</summary>
+  
+  Contributed by: [@radi-cho](https://github.com/radi-cho)
+  
+  > Explain in detail what `concept` is and how it is defined. Use LaTeX math. Provide intuition.
+  
+  - Example for `concept`: "SHAP Gradient Explainer", see [output](https://gist.github.com/radi-cho/c75e128ec2c5f503c9eb4c5202e7987d).
+  
+</details>
+
 
 ## Contributing
 
