@@ -64,6 +64,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Using GPT-4 to create a Three.js music visualizer](https://twitter.com/maxemitchell/status/1637333172273725443)
 - [Dynamic animations in SwiftUI with GPT-4](https://twitter.com/MengTo/status/1636507977795481601)
 - [GPT-4 Data Pipelines: Transform JSON to SQL Schema](https://medium.com/@nschairer/gpt-4-data-pipelines-transform-json-to-sql-schema-instantly-dfd62f6d1024)
+- [iOS shortcut to GPT-4 and GitHub](https://twitter.com/mckaywrigley/status/1640767366266232832)
+- [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 
 
 ### Product integrations
