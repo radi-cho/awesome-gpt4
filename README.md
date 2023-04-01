@@ -46,6 +46,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
 - [Smarty GPT](https://github.com/citiususc/Smarty-GPT) - wrapper of prompts and contexts that supports several models, including GPT4.
 - [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
+- [botbots](https://github.com/radi-cho/botbots) - A dataset of dialogues between two `gpt-3.5-turbo` instances with system messages written by GPT-4.
 
 
 ### Community demos
