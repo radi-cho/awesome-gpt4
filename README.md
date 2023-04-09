@@ -69,7 +69,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [GPT-4 Data Pipelines: Transform JSON to SQL Schema](https://medium.com/@nschairer/gpt-4-data-pipelines-transform-json-to-sql-schema-instantly-dfd62f6d1024)
 - [iOS shortcut to GPT-4 and GitHub](https://twitter.com/mckaywrigley/status/1640767366266232832)
 - [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
-
+- [Code error healing loop (running until a working function is produced) with GPT-4](https://twitter.com/amasad/status/1644895388586086400)
 
 ### Product integrations
 
