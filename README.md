@@ -50,6 +50,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop.
 - [GPT-4 Unlimited Tools](https://github.com/d3n7/GPT-4-Unlimited-Tools) - GPT-4 with internet and command line access
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Production log error diagnosing
 
 
 ### Community demos
