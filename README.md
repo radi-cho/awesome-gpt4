@@ -49,6 +49,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [botbots](https://github.com/radi-cho/botbots) - A dataset of dialogues between two `gpt-3.5-turbo` instances with system messages written by GPT-4.
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
 - [openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop.
+- [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Production log error diagnosing
 
 
 ### Community demos
