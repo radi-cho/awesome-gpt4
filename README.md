@@ -51,6 +51,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop.
 - [GPT-4 Unlimited Tools](https://github.com/d3n7/GPT-4-Unlimited-Tools) - GPT-4 with internet and command line access
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Production log error diagnosing
+- [What-If](https://github.com/VPanjeta/What-If) - A web app which generates alternate history timelines based on alternate facts
 
 
 ### Community demos
