@@ -54,6 +54,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [MusicGPT](https://github.com/d3n7/GPT-4-To-MIDI) - Make polyphonic music in the form of MIDI files with GPT-4 or 3.5.
 
 
+
 ### Community demos
 
 - [The first book written with GPT-4](https://www.impromptubook.com/wp-content/uploads/2023/03/impromptu-rh.pdf) (Announcement [thread](https://twitter.com/reidhoffman/status/1636006090927390720))
@@ -73,6 +74,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [iOS shortcut to GPT-4 and GitHub](https://twitter.com/mckaywrigley/status/1640767366266232832)
 - [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 - [Code error healing loop (running until a working function is produced) with GPT-4](https://twitter.com/amasad/status/1644895388586086400)
+- [What-If: GPT-4 writing alternate history timelines](https://whatif2.vpanjeta.uk/) ([Source Code](https://github.com/VPanjeta/What-If))
 
 ### Product integrations
 
