@@ -51,7 +51,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [openplayground](https://github.com/nat/openplayground) - An LLM playground you can run on your laptop.
 - [GPT-4 Unlimited Tools](https://github.com/d3n7/GPT-4-Unlimited-Tools) - GPT-4 with internet and command line access
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Production log error diagnosing
-- [What-If](https://github.com/VPanjeta/What-If) - A web app which generates alternate history timelines based on alternate facts
+- [MusicGPT](https://github.com/d3n7/GPT-4-To-MIDI) - Make polyphonic music in the form of MIDI files with GPT-4 or 3.5.
+
 
 
 ### Community demos
@@ -73,6 +74,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [iOS shortcut to GPT-4 and GitHub](https://twitter.com/mckaywrigley/status/1640767366266232832)
 - [Task-driven Autonomous Agent Utilizing GPT-4, Pinecone, and LangChain for Diverse Applications](https://yoheinakajima.com/task-driven-autonomous-agent-utilizing-gpt-4-pinecone-and-langchain-for-diverse-applications/)
 - [Code error healing loop (running until a working function is produced) with GPT-4](https://twitter.com/amasad/status/1644895388586086400)
+- [What-If: GPT-4 writing alternate history timelines](https://whatif2.vpanjeta.uk/) ([Source Code](https://github.com/VPanjeta/What-If))
 
 ### Product integrations
 
