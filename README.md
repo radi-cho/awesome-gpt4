@@ -93,7 +93,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - GitHub [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - AI-powered developer experience.
 - [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator.
 - [Landing AI](https://landing-ai.com) - Explain your product, branding, and get a unique landing page made with GPT-4 and Dall-E.
-
+- [Nekton AI](https://nekton.ai) - Automate your workflows with GPT-4 and run them in the cloud.
 
 ## GPT-4 news and announcements
 
