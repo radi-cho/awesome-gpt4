@@ -53,7 +53,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [doctorgpt](https://github.com/ingyamilmolinar/doctorgpt) - Production log error diagnosing
 - [MusicGPT](https://github.com/d3n7/GPT-4-To-MIDI) - Make polyphonic music in the form of MIDI files with GPT-4 or 3.5.
 - [StockGPT](https://github.com/d3n7/StockGPT) - Primitive technique to predict stock movements with GPT-4 or 3.5.
-- [Haddock](https://www.haddock.ai/) - Search GPT-4 Generated Scripts for Gaming Engines for free. Currently supporting Roblox, Unity, and Unreal Engine. 
+- [Haddock](https://github.com/asaxena0824/ScripterAI) - Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.
 
 ### Community demos
 
