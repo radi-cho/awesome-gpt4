@@ -95,6 +95,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator.
 - [Landing AI](https://landing-ai.com) - Explain your product, branding, and get a unique landing page made with GPT-4 and Dall-E.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with GPT-4 and run them in the cloud.
+- [AI Story Generator](https://www.aistorygenerator.org) - Free online AI story generator that uses GPT 3.5 to generate short stories.
 
 ## GPT-4 news and announcements
 
