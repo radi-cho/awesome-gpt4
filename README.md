@@ -57,6 +57,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [StockGPT](https://github.com/d3n7/StockGPT) - Primitive technique to predict stock movements with GPT-4 or 3.5.
 - [Haddock](https://github.com/asaxena0824/ScripterAI) - Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.
 - [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
 
 ### Community demos
 
