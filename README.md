@@ -98,7 +98,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator.
 - [Landing AI](https://landing-ai.com) - Explain your product, branding, and get a unique landing page made with GPT-4 and Dall-E.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with GPT-4 and run them in the cloud.
-- [DataWars](https://www.datawars.io/articles/introducing-trooper-a-gpt-based-ai-assistant-for-data-science) - A fine tuned coding assistant that helps you learn Data Science and resolve real life projects.
+- [OpsGPT](https://checkups.opster.com/ops-gpt) - Get expert answers to your Elasticsearch & OpenSearch questions. 
+- [DataWars](https://www.datawars.io/articles/introducing-trooper-a-gpt-based-ai-assistant-for-data-science) - A fine-tuned coding assistant that helps you learn Data Science.
 
 ## GPT-4 news and announcements
 
