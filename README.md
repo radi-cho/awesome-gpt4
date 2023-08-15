@@ -80,6 +80,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Code error healing loop (running until a working function is produced) with GPT-4](https://twitter.com/amasad/status/1644895388586086400)
 - [What-If: GPT-4 writing alternate history timelines](https://whatif2.vpanjeta.uk/) ([Source Code](https://github.com/VPanjeta/What-If))
 - [GPT-4 for Roblox Game Dev](https://youtu.be/yx4t6hH-y4g)
+- [Molly: Artificial Consciousness Built With GPT-4](https://stackblitz.com/github/marmelab/molly/tree/main?file=README.md) ([Source code](https://github.com/marmelab/molly))
 
 ### Product integrations
 
