@@ -34,6 +34,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ### Open-source projects
 
+- [helicone](https://github.com/Helicone/helicone) - GPT4 Monitoring and Observability.
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
 - [GPT-4 Chat UI](https://replit.com/@zahid/GPT-4-Chat-UI) - Replit GPT-4 frontend template for Next.js.
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.
