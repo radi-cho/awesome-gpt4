@@ -58,7 +58,8 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Haddock](https://github.com/asaxena0824/ScripterAI) - Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.
 - [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
-- [GPT in Discord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
+- [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
+- [helicone](https://github.com/Helicone/helicone) - GPT4 Monitoring and Observability.
 
 ### Community demos
 
