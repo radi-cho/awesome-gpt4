@@ -42,11 +42,11 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode.
 - [Pair](https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.
 - [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
-- [Wolverine](https://github.com/biobootloader/wolverine) - Run Python scripts and when they crash, GPT-4 edits them and explains what went wrong.
+- [Wolverine](https://github.com/biobootloader/wolverine) - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
 - [datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
 - [ChatGPTify](https://github.com/idilsulo/ChatGPTify) - Spotify playlist generator via ChatGPT (and GPT-4).
 - [Smart Connections](https://github.com/brianpetro/obsidian-smart-connections) - Chat with the notes in your Obsidian vault using OpenAI GPT-4.
-- [Smarty GPT](https://github.com/citiususc/Smarty-GPT) - wrapper of prompts and contexts that supports several models, including GPT4.
+- [Smarty GPT](https://github.com/citiususc/Smarty-GPT) - a wrapper of prompts and contexts that supports several models, including GPT4.
 - [gpt-voice-conversation-chatbot](https://github.com/Adri6336/gpt-voice-conversation-chatbot) - Conversational GPT-4 bot that has memory, ElevenLabs/Google TTS, voice-chat/CLI options, customization, and is not token-limited.
 - [botbots](https://github.com/radi-cho/botbots) - A dataset of dialogues between two `gpt-3.5-turbo` instances with system messages written by GPT-4.
 - [chatgpt-wrapper](https://github.com/mmabrouk/chatgpt-wrapper) - API for interacting with ChatGPT and GPT4 using Python and from Shell.
@@ -56,8 +56,9 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [MusicGPT](https://github.com/d3n7/GPT-4-To-MIDI) - Make polyphonic music in the form of MIDI files with GPT-4 or 3.5.
 - [StockGPT](https://github.com/d3n7/StockGPT) - Primitive technique to predict stock movements with GPT-4 or 3.5.
 - [Haddock](https://github.com/asaxena0824/ScripterAI) - Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.
-- [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
+- [GPT in Discord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 
 ### Community demos
 
@@ -65,9 +66,9 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Turn napkin sketch into a web app](https://youtu.be/outcGtbnMuQ?t=972) (By OpenAI)
 - [GPT-4 trying to escape by asking for its own documentation](https://twitter.com/michalkosinski/status/1636683810631974912)
 - [Make a film, from script to screen](https://twitter.com/nickfloats/status/1635749064091267098)
-- [GPT-4 for writing microservices that inference the GPT-3 API](https://twitter.com/joeprkns/status/1635969883375640577)
+- [GPT-4 for writing microservices that infer the GPT-3 API](https://twitter.com/joeprkns/status/1635969883375640577)
 - [GPT-4 for making Google Chrome extensions](https://twitter.com/jakebrowatzke/status/1635882037319008258)
-- [GPT-4 for writing one click lawsuits to sue robocallers](https://twitter.com/jbrowder1/status/1635720431091974157)
+- [GPT-4 for writing one-click lawsuits to sue robocallers](https://twitter.com/jbrowder1/status/1635720431091974157)
 - [GPT-4 for matchmaking](https://twitter.com/jakozloski/status/1635778263787110401)
 - [GPT-4 for debugging](https://twitter.com/mayowaoshin/status/1635757442859671553)
 - [Create a basic 3D game prototype like Doom using GPT-4](https://twitter.com/javilopen/status/1636085116400451584)
@@ -80,12 +81,11 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Code error healing loop (running until a working function is produced) with GPT-4](https://twitter.com/amasad/status/1644895388586086400)
 - [What-If: GPT-4 writing alternate history timelines](https://whatif2.vpanjeta.uk/) ([Source Code](https://github.com/VPanjeta/What-If))
 - [GPT-4 for Roblox Game Dev](https://youtu.be/yx4t6hH-y4g)
-- [GPT in Discord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for discord with multi-modal chat, infinite length conversations, and more.
 
 ### Product integrations
 
 - [Khan Academy](https://openai.com/customer-stories/khan-academy) integrates GPT-4 as every student’s customized tutor.
-    - [GPT-4 Khan Academy In Depth Demo.](https://www.youtube.com/watch?v=rnIgnS8Susg)
+    - [GPT-4 Khan Academy In-Depth Demo.](https://www.youtube.com/watch?v=rnIgnS8Susg)
 - [Be My Eyes](https://openai.com/customer-stories/be-my-eyes) uses GPT-4 to transform visual accessibility.
 - [Stripe](https://openai.com/customer-stories/stripe) leverages GPT-4 to streamline user experience and combat fraud.
 - [Duolingo](https://openai.com/customer-stories/duolingo) uses GPT-4 to deepen its conversations.
@@ -98,7 +98,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Magician](https://twitter.com/jsngr/status/1635696478013337600) by [diagram](https://diagram.com/) - AI design tools with access to GPT-4.
 - GitHub [Copilot X](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/) - AI-powered developer experience.
 - [Cratecode](https://cratecode.com) - AI programming assistant/tutor and automatic article generator.
-- [Landing AI](https://landing-ai.com) - Explain your product, branding, and get a unique landing page made with GPT-4 and Dall-E.
+- [Landing AI](https://landing-ai.com) - Explain your product and branding to get a unique landing page made with GPT-4 and Dall-E.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with GPT-4 and run them in the cloud.
 - [OpsGPT](https://checkups.opster.com/ops-gpt) - Get expert answers to your Elasticsearch & OpenSearch questions. 
 - [DataWars](https://www.datawars.io/articles/introducing-trooper-a-gpt-based-ai-assistant-for-data-science) - A fine-tuned coding assistant that helps you learn Data Science.
@@ -113,7 +113,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ## Prompts
 
-Prompts and conversations which are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) as well.
+Prompts and conversations that are especially impressive with GPT-4. Check out [@f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) and [awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) as well.
 
 <details>
   <summary>Act as a pharmacologists</summary>
