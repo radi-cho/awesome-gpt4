@@ -60,6 +60,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
 - [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 - [helicone](https://github.com/Helicone/helicone) - GPT4 Monitoring and Observability.
+- [GPT-Assistants-Interlink](https://github.com/Adri6336/GPT-Assistants-Interlink) - Mobile OpenAI Assistant voice-chat tool for your Android smart-watch that uses multiple specialized instances. 
 
 ### Community demos
 
