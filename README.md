@@ -60,6 +60,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
 - [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 - [helicone](https://github.com/Helicone/helicone) - GPT4 Monitoring and Observability.
+- [GPTRouter](https://gpt-router.writesonic.com/) - GPTRouter is an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming. Stay operational even when OpenAI is down.
 
 ### Community demos
 
