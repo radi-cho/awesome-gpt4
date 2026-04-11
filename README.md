@@ -41,6 +41,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Conference scheduling](https://github.com/stephanj/Scheduling-using-GPT4) using GPT-4.
 - [GPTBot](https://github.com/LIFTE-H2/GPTBot) - A fully serverless Slack bot with GPT-4 support and full conversation mode.
 - [Pair](https://github.com/jiggy-ai/pair) - An iterative, stateful chat-like interface for programmers to pair programming with GPT-4.
+- [Toprank](https://github.com/nowork-studio/toprank) - Open-source MIT Claude Code plugin with 9 SEO and Google Ads skills that connects Google Search Console, PageSpeed Insights, and the Google Ads API to ship fixes like meta tag rewrites, JSON-LD schema generation, keyword bid adjustments, and CMS content pushes.
 - [gpt-cli](https://github.com/CristiVlad25/gpt-cli) - Access GPT3, ChatGPT, and GPT4 straight from your terminal.
 - [Wolverine](https://github.com/biobootloader/wolverine) - Run Python scripts, and when they crash, GPT-4 edits them and explains what went wrong.
 - [datasetGPT](https://github.com/radi-cho/datasetGPT) - A command-line interface to generate textual and conversational datasets with LLMs.
