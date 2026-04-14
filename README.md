@@ -103,6 +103,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with GPT-4 and run them in the cloud.
 - [OpsGPT](https://checkups.opster.com/ops-gpt) - Get expert answers to your Elasticsearch & OpenSearch questions. 
 - [DataWars](https://www.datawars.io/articles/introducing-trooper-a-gpt-based-ai-assistant-for-data-science) - A fine-tuned coding assistant that helps you learn Data Science.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 ## GPT-4 news and announcements
 
