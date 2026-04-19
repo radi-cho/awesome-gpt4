@@ -20,9 +20,11 @@ Website repository: https://github.com/radi-cho/awesome-gpt4-wbesite
 
 Impactful scientific papers about GPT-4 and its predecessors.
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Improving Language Understanding by Generative Pre-Training](https://paperswithcode.com/paper/improving-language-understanding-by) (GPT)
 - [Language Models are Unsupervised Multitask Learners](https://paperswithcode.com/paper/language-models-are-unsupervised-multitask) (GPT-2)
 - [Language Models are Few-Shot Learners](https://paperswithcode.com/paper/language-models-are-few-shot-learners) (GPT-3)
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (InstructGPT)
 - **[GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf)**
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/pdf/2303.12712.pdf)
