@@ -34,6 +34,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 
 ### Open-source projects
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and wallet identity verification for AI agents on Solana before x402 micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs.
 - [GPT-4 Chat UI](https://replit.com/@zahid/GPT-4-Chat-UI) - Replit GPT-4 frontend template for Next.js.
 - [GPT-Prompter](https://github.com/giosilvi/GPT-Prompter) - Browser extension to get a fast prompt for OpenAI's GPT-3, GPT-4 & ChatGPT API.
