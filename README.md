@@ -103,6 +103,7 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [Nekton AI](https://nekton.ai) - Automate your workflows with GPT-4 and run them in the cloud.
 - [OpsGPT](https://checkups.opster.com/ops-gpt) - Get expert answers to your Elasticsearch & OpenSearch questions. 
 - [DataWars](https://www.datawars.io/articles/introducing-trooper-a-gpt-based-ai-assistant-for-data-science) - A fine-tuned coding assistant that helps you learn Data Science.
+- [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 
 ## GPT-4 news and announcements
 
