@@ -57,6 +57,15 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [StockGPT](https://github.com/d3n7/StockGPT) - Primitive technique to predict stock movements with GPT-4 or 3.5.
 - [Haddock](https://github.com/asaxena0824/ScripterAI) - Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.
 - [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s widescreen solo dance (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99)
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
 - [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 - [helicone](https://github.com/Helicone/helicone) - GPT4 Monitoring and Observability.
