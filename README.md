@@ -57,6 +57,9 @@ Impactful scientific papers about GPT-4 and its predecessors.
 - [StockGPT](https://github.com/d3n7/StockGPT) - Primitive technique to predict stock movements with GPT-4 or 3.5.
 - [Haddock](https://github.com/asaxena0824/ScripterAI) - Search GPT-4 generated scripts for gaming engines - Roblox, Unity, and Unreal.
 - [Anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E, and Stable Diffusion.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [DemoGPT](https://github.com/melih-unsal/DemoGPT) - DemoGPT enables you to create quick demos by just using prompts.
 - [GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A full OpenAI integration for Discord with multi-modal chat and infinite-length conversations.
 - [helicone](https://github.com/Helicone/helicone) - GPT4 Monitoring and Observability.
